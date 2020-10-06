@@ -1,0 +1,29 @@
+body{
+    background-color: lightcyan;
+
+}
+
+.container{
+    min-height: 100px;
+    width: 300px;
+    background-color: rgb(40, 42, 54);
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: rgb(40, 42, 54) 3px 3px 5px;
+    padding: 10px 10px;
+    color: white;
+}
+
+.botao{
+    width: 90px;
+    margin-top: 10px;
+}
+
+.texto{
+    background-color: white;
+    color: black;
+    border: lightgrey 1px solid;
+}
+
+
+box-shadow: lightgrey 40px 42px 54px;
