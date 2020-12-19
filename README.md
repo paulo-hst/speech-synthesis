@@ -1,16 +1,25 @@
-<h1 align="center">Speaker - SpeechSynthesis</h1>
+<h1 align="center">WeatherApp</h1>
 
 ## Objetivo
-App simples que utiliza o SpeechSynthesis API para reproduzir textos digitados. Desenvolvido a partir da vídeo aula da Rocketseat.
+Aplicativo mobile que apresenta a temperatura atual a partir da API grátis do OpenWeather utilizando React Native e Expo. 
+Além da temperatura, é exibido em tela a região, sensação térmica, umidade, temperatura máxima, mínima e a velocidade do vento atual. Essas informações são consideradas a partir da localização do dispositivo. É possível alterar a escala entre Celcius (C) e Fahrenheit (F).
 
 ## Tecnologias / Ferramentas / Bibliotecas
-- HTML5
-- CSS3
 - JavaScript
-- SpeechSynthesis API
+- React Native
+- Expo
+
+## Funcionalidades
+- [x] Acesso a geolocalização do celular
+- [x] Requisições a API do OpenWeather
+- [ ] Relógio e data
+- [ ] Alterar background de acordo com a temperatura e horário
+- [ ] Splash Screen e Icon Personalizados
 
 ## Status
-- [x] Concluído - 05/10/2020
+- [ ] Em andamento
 
 ## Links
-- [Rocketseat](https://rocketseat.com.br/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [OpenWeatherAPI](https://openweathermap.org/)
