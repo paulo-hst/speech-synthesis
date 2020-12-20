@@ -1,19 +1,13 @@
 <h1 align="center">Speaker</h1>
 
 ## Objetivo
-
-<h1 align="center">
-  <img alt="wa" title="wa" src="./app.jpg" width="400px"/>
-</h1>
+Projeto simples que utiliza a API SpeechSynthesis para reproduzir texto digitado por áudio.
 
 ## Tecnologias / Ferramentas / Bibliotecas
+- HTML
+- CSS
 - JavaScript
-
-## Funcionalidades
-- [x] 
+- Bootstrap
 
 ## Status
-- [ ] Em andamento
-
-## Links
-- 
+- [x] Finalizado - 05/10/2020
